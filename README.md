@@ -151,7 +151,7 @@ This portfolio demonstrates continuous learning and problem-solving:
 
 For collaboration opportunities or questions:
 - GitHub: [@raimbekovm](https://github.com/raimbekovm)
-- LinkedIn: [Murat Raimbekov](www.linkedin.com/in/murat-raimbekov)
+- LinkedIn: www.linkedin.com/in/murat-raimbekov
 
 ---
 
